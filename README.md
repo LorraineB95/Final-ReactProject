@@ -15,13 +15,13 @@ Head to localhost:4000 in your browser
 
 ### `Home`
 
-This is the home page of my app. It displays images of books in a Grid List and uses a navigation bar on the left hand side of the page.
+This is the home page of the app. It displays images of books in a Grid List and uses a navigation bar on the left hand side of the page.
 
 ![alt text](https://i.imgur.com/Lrtzih1.png)
 
 ### `My Books`
 
-To implement CRUD I displayed books from the database in a table which can be viewed below. The image is illustrating READ.
+To implement CRUD the books from the database are displayed in a table which can be viewed below. The image is illustrating READ.
 
 ![alt text](https://i.imgur.com/DfmVlc1.png)
 
