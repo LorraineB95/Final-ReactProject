@@ -4,12 +4,14 @@ To launch the app clone the repository. All the modules already come with the pr
 ```
 git clone https://github.com/LorraineB95/Final-ReactProject
 ```
-After you have cloned the repository, launch the server in the integrated terminal in the server.
+After you have cloned the repository, launch the server from a command prompt.
 
 ```
 cd BackEnd
 node server.js
 ```
+
+Head to localhost:4000 in your browser 
 
 ### `Home`
 
