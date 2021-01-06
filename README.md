@@ -1,6 +1,6 @@
 My final ReactJS Project
 
-To launch the app clone the repository. All the modules already come with the project.
+To download the project, use the command below. All the modules already come with the project.
 ```
 git clone https://github.com/LorraineB95/Final-ReactProject
 ```
