@@ -1,4 +1,5 @@
-My final ReactJS Project
+
+## `Book Repository ReactJS`
 
 To download the project, use the command below. All the modules already come with the project.
 ```
